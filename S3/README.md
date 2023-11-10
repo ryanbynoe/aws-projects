@@ -86,6 +86,14 @@ Bucket policies in AWS S3 are used to grant permission to resources in your buck
 }
 ```
 
+# Uh-Oh Moment
+
+Received an API response error. This means the S3 bucket name is invalid.
+![alt text](assets/bp-error.jpg)
+![alt text](assets/bucketpolicy.jpg)
+
+
+
 # S3 Bucket Policy Explanation
 
 This document provides an explanation of the various components of an S3 bucket policy.

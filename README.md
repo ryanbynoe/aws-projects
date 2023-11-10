@@ -8,8 +8,6 @@ Welcome to my Personal AWS Projects and Self-Learning Repository! This GitHub re
 - [Projects](#projects)
 - [Self-Learning](#self-learning)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
