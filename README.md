@@ -34,7 +34,7 @@ In addition to projects, this repository also contains documentation and notes o
 
 To get started with the projects and resources in this repository, follow these steps:
 
-1. Clone the repository to your local machine:
+1. Clone the repository to  local machine:
 
    ```shell
    git clone https://github.com/ryanbynoe/aws-projects.git
